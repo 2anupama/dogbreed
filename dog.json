@@ -1,0 +1,57 @@
+[
+    {
+      "breedID": "b101",
+      "breedName": "Golden Retriever",
+      "description": "Friendly, intelligent, and devoted. Golden Retrievers are known for their gentle temperament and are great family pets.",
+      "size": "Large",
+      "lifespan": "10-12 years",
+      "origin": "Scotland",
+      "imageURL": "https://example.com/images/golden_retriever.jpg"
+    },
+    {
+      "breedID": "b102",
+      "breedName": "Labrador Retriever",
+      "description": "Outgoing, even-tempered, and gentle. Labradors are highly trainable and great with children.",
+      "size": "Large",
+      "lifespan": "10-12 years",
+      "origin": "Canada",
+      "imageURL": "https://example.com/images/labrador_retriever.jpg"
+    },
+    {
+      "breedID": "b103",
+      "breedName": "German Shepherd",
+      "description": "Confident, courageous, and smart. German Shepherds are known for their versatility and are often used in police and military roles.",
+      "size": "Large",
+      "lifespan": "9-13 years",
+      "origin": "Germany",
+      "imageURL": "https://example.com/images/german_shepherd.jpg"
+    },
+    {
+      "breedID": "b104",
+      "breedName": "Bulldog",
+      "description": "Docile, willful, and friendly. Bulldogs are known for their distinctive wrinkled face and pushed-in nose.",
+      "size": "Medium",
+      "lifespan": "8-10 years",
+      "origin": "England",
+      "imageURL": "https://example.com/images/bulldog.jpg"
+    },
+    {
+      "breedID": "b105",
+      "breedName": "Beagle",
+      "description": "Curious, friendly, and merry. Beagles are known for their excellent sense of smell and tracking instincts.",
+      "size": "Small",
+      "lifespan": "12-15 years",
+      "origin": "England",
+      "imageURL": "https://example.com/images/beagle.jpg"
+    },
+    {
+      "breedID": "b106",
+      "breedName": "Poodle",
+      "description": "Active, proud, and very smart. Poodles come in three sizes and are known for their hypoallergenic coat.",
+      "size": "Varies",
+      "lifespan": "12-15 years",
+      "origin": "Germany/France",
+      "imageURL": "https://example.com/images/poodle.jpg"
+    }
+  ]
+  
